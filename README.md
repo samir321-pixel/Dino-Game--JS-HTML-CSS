@@ -36,4 +36,10 @@ Double Click on index.html file.
 
 ## Like This?? Star ⭐ this Repo.
 
-## 👮 **_For Full Version contact me @ [saitwalsamir@gmail.com](mailto:saitwalsamir@gmail.com?Subject=Library_Project)_** 👮
+## 👮 **_For Help contact me @ [saitwalsamir@gmail.com](mailto:saitwalsamir@gmail.com?Subject=Library_Project)_** 👮
+
+
+> Samir Saitwal &copy; 2021
+<br><br>
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/samir321-pixel)
+[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/samir321-pixel)
