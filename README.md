@@ -2,3 +2,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 <h1 align="center">Animation Game</h1>
  
+## 	✈️ Introduction
+* In this repo, I am creating Animation Game with HTML, CSS, JS.
