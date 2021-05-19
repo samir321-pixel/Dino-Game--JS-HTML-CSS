@@ -4,3 +4,10 @@
  
 ## 	✈️ Introduction
 * In this repo, I am creating Animation Game with HTML, CSS, JS.
+
+## 🚀 Technology Stack
+* Frontend
+  * HTML
+  * CSS 
+  * JSS
+
