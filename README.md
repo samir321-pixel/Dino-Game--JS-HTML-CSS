@@ -32,3 +32,8 @@ Double Click on index.html file.
 
 > **_Need help?_ 🤔** 
 > **_Feel free to contact me @ [saitwalsamir@gmail.com](mailto:saitwalsamir@gmail.com?Subject=Library_Project)_**
+
+
+## Like This?? Star ⭐ this Repo.
+
+## 👮 **_For Full Version contact me @ [saitwalsamir@gmail.com](mailto:saitwalsamir@gmail.com?Subject=Library_Project)_** 👮
