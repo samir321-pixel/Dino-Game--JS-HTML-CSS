@@ -43,3 +43,10 @@ Double Click on index.html file.
 <br><br>
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/samir321-pixel)
 [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/samir321-pixel)
+
+***
+## 📘 Useful Resources 📘
+- [HTML Docs](https://devdocs.io/html/)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [JavaScripts](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Git and GitHub](https://www.digitalocean.com/community/tutorials/how-to-use-git-a-reference-guide)
